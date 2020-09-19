@@ -7,3 +7,6 @@ I really love this project
 
 1. SASS (everything about sass)
 2. BEM notation
+3. Some amazing animations too
+
+## most links aren't working
